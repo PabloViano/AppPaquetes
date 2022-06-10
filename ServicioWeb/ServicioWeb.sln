@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioWeb", "ServicioWeb\ServicioWeb.csproj", "{0702BE82-1673-4615-B26C-7746F4A13B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{B178CE2B-2538-4FCF-910C-5F86AB7CFAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{A684D7C3-E988-4091-95F9-8F8E55C93752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0702BE82-1673-4615-B26C-7746F4A13B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0702BE82-1673-4615-B26C-7746F4A13B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0702BE82-1673-4615-B26C-7746F4A13B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0702BE82-1673-4615-B26C-7746F4A13B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B178CE2B-2538-4FCF-910C-5F86AB7CFAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B178CE2B-2538-4FCF-910C-5F86AB7CFAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B178CE2B-2538-4FCF-910C-5F86AB7CFAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B178CE2B-2538-4FCF-910C-5F86AB7CFAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A684D7C3-E988-4091-95F9-8F8E55C93752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A684D7C3-E988-4091-95F9-8F8E55C93752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A684D7C3-E988-4091-95F9-8F8E55C93752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A684D7C3-E988-4091-95F9-8F8E55C93752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C467221-F90D-4783-BD00-F6F48A0D7113}
+	EndGlobalSection
+EndGlobal
